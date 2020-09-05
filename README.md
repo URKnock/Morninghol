@@ -1,2 +1,10 @@
-# morninghol
-Study deep-learning pose estimation
+라즈베리파이를 이용한 홀로그램 알람 모닝홀
+
+요가로 시작하는 당신의 상쾌한 아침, 모닝홀과 함께하세요
+귀여운 트레이너 홀이가 당신과 함께합니다!
+
+> 트레이너 홀
+![트레이너_홀](/uploads/a2bb2e0a3ec1f7f149aaf3b8adaaa227/트레이너_홀.png)
+
+> 모닝홀 사용 방법
+![어바웃_모닝홀](/uploads/961de2dc1896cc3a313dfbdfba30ab70/어바웃_모닝홀.png)
