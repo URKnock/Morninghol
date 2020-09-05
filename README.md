@@ -4,7 +4,7 @@
 귀여운 트레이너 홀이가 당신과 함께합니다!
 
 > 트레이너 홀
-![트레이너_홀](/uploads/a2bb2e0a3ec1f7f149aaf3b8adaaa227/트레이너_홀.png)
+![트레이너_홀](https://user-images.githubusercontent.com/22590522/92300451-c3a8b300-ef95-11ea-89c4-cf5235af8e80.png)
 
 > 모닝홀 사용 방법
-![어바웃_모닝홀](/uploads/961de2dc1896cc3a313dfbdfba30ab70/어바웃_모닝홀.png)
+![어바웃_모닝홀](https://user-images.githubusercontent.com/22590522/92300451-c3a8b300-ef95-11ea-89c4-cf5235af8e80.png)
